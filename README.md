@@ -26,9 +26,10 @@ This challenge tests your ability to:
 
 ## Example Output
 When you run your Java program, it should print: 
-## Refer to the image (ref_Image.jpg)
+ **Refer to the image (ref_Image.jpg)**
 
 ## Credits
 Challenge inspired by @devin.py on Instagram.
+
 
 
